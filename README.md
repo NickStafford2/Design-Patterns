@@ -13,12 +13,13 @@
 		<a href="https://github.com/NickStafford2/Design-Patterns/tree/master/lab1">lab 1</a> compares two text files and shows where they differ. This was my first C++ program ever. 
 	</li>
 	<li>
-		<a href="https://github.com/NickStafford2/Design-Patterns/tree/master/lab2">lab 2</a> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum debitis vitae optio sint.
+		<a href="https://github.com/NickStafford2/Design-Patterns/tree/master/lab2">lab 2</a>
 	</li>
 	<li>
-		<a href="https://github.com/NickStafford2/Design-Patterns/tree/master/lab3">lab 3</a> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum debitis vitae optio sint.
+		<a href="https://github.com/NickStafford2/Design-Patterns/tree/master/lab3">lab 3</a>
+	</li>
 	<li>
-		<a href="https://github.com/NickStafford2/Design-Patterns/tree/master/lab4">lab 4</a> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum debitis vitae optio sint.
+		<a href="https://github.com/NickStafford2/Design-Patterns/tree/master/lab4">lab 4</a>
 	</li>
 	<li>
 		<a href="https://github.com/NickStafford2/Design-Patterns/tree/master/lab5">lab 5</a> Map and file IO
@@ -33,19 +34,19 @@
 		<a href="https://github.com/NickStafford2/Design-Patterns/tree/master/lab8">lab 8</a> Singleton Design pattern.
 	</li>
 	<li>
-		<a href="https://github.com/NickStafford2/Design-Patterns/tree/master/lab9">lab 9</a> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum debitis vitae optio sint.
+		<a href="https://github.com/NickStafford2/Design-Patterns/tree/master/lab9">lab 9</a>
 	</li>
 	<li>
-		<a href="https://github.com/NickStafford2/Design-Patterns/tree/master/lab10">lab 10</a> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum debitis vitae optio sint.
+		<a href="https://github.com/NickStafford2/Design-Patterns/tree/master/lab10">lab 10</a>
 	</li>
 	<li>
-		<a href="https://github.com/NickStafford2/Design-Patterns/tree/master/lab11">lab 11</a> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum debitis vitae optio sint.
+		<a href="https://github.com/NickStafford2/Design-Patterns/tree/master/lab11">lab 11</a> Simulates a CPU scheduler. This was my best work in this class. 
 	</li>
 	<li>
-		<a href="https://github.com/NickStafford2/Design-Patterns/tree/master/lab12">lab 12</a> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum debitis vitae optio sint.
+		<a href="https://github.com/NickStafford2/Design-Patterns/tree/master/lab12">lab 12</a>
 	</li>
 	<li>
-		<a href="https://github.com/NickStafford2/Design-Patterns/tree/master/lab13">lab 13</a> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum debitis vitae optio sint.
+		<a href="https://github.com/NickStafford2/Design-Patterns/tree/master/lab13">lab 13</a>
 	</li>
 	<li>
 		<a href="https://github.com/NickStafford2/Design-Patterns/tree/master/lab14">lab 14</a> Memento Design pattern. Final Assignment for semester. This was somewhat rushed.
