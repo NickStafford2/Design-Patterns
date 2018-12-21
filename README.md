@@ -8,7 +8,7 @@
 <h3>Assignments</h3>
 <ol>
 	<li>
-		<a href="#">lab 1</a><p>compares two text files and shows where they differ</p>
+		<a href="https://github.com/NickStafford2/Design-Patterns/tree/master/lab1">lab 1</a><p>compares two text files and shows where they differ</p>
 	</li>
 </ol>
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minus saepe fuga nostrum, eum optio sint, aspernatur sit non? Ex quis, quibusdam ad necessitatibus. Maxime enim minima deserunt sit, labore alias!</p>
