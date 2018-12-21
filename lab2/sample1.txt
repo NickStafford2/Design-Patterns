@@ -1,0 +1,7 @@
+this is a bunch of words words words 22words .afdjkw
+
+nextline \n hello again again again echo echo echo
+
+even more words
+
+this is my first makefile so go easy on me

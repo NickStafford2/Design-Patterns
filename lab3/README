@@ -1,0 +1,48 @@
+Templated List
+
+The Collection class defined in Collection.h uses templates to
+implement the linked list defined in the list.h header file. The
+Collection class has several functions to make manipulating linked
+lists easier for the client. list.h is templated as well. both
+collection as well as list accept any type as input.
+
+----------------------------------------------------------------------
+
+The Collection class offers several functions for clients to use:
+
+addItem(): takes an item as the argument and adds it to the
+collection, does not check for duplicates.
+
+removeItem(): takes an item as the argument and removes all instances
+of this item from the collection.
+
+lastItem(): returns the last item added to the collection.
+
+printCollection(): prints all items in the collection. The printout
+does not have to be in order.
+
+bool equal(const Collection&, const Collection&) : compares two
+collections for equality.
+
+----------------------------------------------------------------------
+How to compile and run test. 
+
+Use the make command to compile and run the executable for the test
+$ make
+
+use the command make clean to clean unwanted object files
+$ make clean
+
+
+
+to compile without the Makefile use the command:
+$ clang++ -std=c++11 Collection.h list.h testCollection.cpp
+
+then execute using:
+$ ./a.out
+
+----------------------------------------------------------------------
+2/8/18
+
+Collection created by Nicholas Stafford.
+list.h and testCollection created by Mikhail Nesterenko

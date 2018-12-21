@@ -1,0 +1,12 @@
+README
+Made by Nicholas Stafford
+CS3 lab 11
+
+optional parameter for executing cpuScheduler is fast
+
+to run, use command
+$make
+
+to run with instant execution, use command
+$make fast
+

@@ -1,0 +1,21 @@
+Author:   Nicholas Stafford
+	     - based on code originally by Mikhail Nesterenko
+Class: 	  CS3
+Project:  Lab 7
+Due: 	  3/16/18
+
+
+Lab 7 implements a hashmap
+
+To test use the command make with no parameters
+   $ make
+
+To create all test executables use the command
+   $ make tests
+This creates two executables, oldTests and newTests. both use the same hashmap.hheader file
+     - oldTests executes the default tests provided by the assignment
+     - newTests executes my tests which are more complete.
+
+
+To test with a large file as input, change the data source in
+hashmap.cpp from "data1.txt" to "data2.txt"
